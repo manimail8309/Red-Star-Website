@@ -16,8 +16,4 @@ export function Logo({ className }: { className?: string }) {
       />
     </div>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b715027c0b9f39f7394205a50e80caeb84e2a9d2
